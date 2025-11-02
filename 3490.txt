@@ -1,3 +1,4 @@
+事前に iPad内に「ショートカット用」フォルダーを作成してください
 https://www.icloud.com/shortcuts/79d74b1778bb4bc39fc4e055c22c5fa8
 1、このリンクからショートカットをインストール
 2、設定→apple pencil→スクイーズ→ショートカット→実行
